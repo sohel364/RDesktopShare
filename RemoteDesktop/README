@@ -10,7 +10,7 @@ technical users intending to compile parts of Remote Desktop web app by themselv
  What is Remote Desktop Web App?
 ------------------------------------------------------------
 
-Remote Desktop web app.The web application was based on top of Guacamole framework
+Remote Desktop web app is a web application which is based on top of Guacamole framework
 and guacamole-client application . 
 Guacamole is an open source framework for clientless RDP app and the 
 Guacamole-client is an HTML5 web application that provides access to your desktop using
